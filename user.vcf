@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Cheers;James;;;
+FN: James  Cheers 
+ORG:Brookfield Produce & Pet Pavilion ;
+TITLE:Store Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:james@brookfieldproduce.com.au
+TEL;type=WORK;type=VOICE:+61 0413 273 129
+item1.ADR;type=WORK;type=pref:;;612 Brookfield Road, Brookfield QLD 4069
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.brookfieldproduce.com.au
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
